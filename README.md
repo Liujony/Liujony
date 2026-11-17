@@ -10,6 +10,6 @@ I build the layer between a model and a person: streaming clients, tool-call run
 
 **Stack:** Go · TypeScript · Swift · Python · PostgreSQL · Redis · Docker · Kubernetes · OpenTelemetry · RAG/LLM.
 
-**Writing:** [RAG citations are a test](content/rag-citations-eval.md) · [Go graceful shutdown](content/go-graceful-shutdown.md)
+**Writing:** [RAG citations are a test](https://notes.starlightness.tech/rag-citations-eval.html) · [Go graceful shutdown](https://notes.starlightness.tech/go-graceful-shutdown.html)
 
-**Contact:** yinaaaliu@outlook.com · [Portfolio](portfolio/README.md)
+**Contact:** yinaaaliu@outlook.com · [Portfolio](https://me.starlightness.tech)
